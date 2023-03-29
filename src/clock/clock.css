@@ -1,0 +1,32 @@
+
+
+.analog-clock {
+  display: flex;
+  justify-content: center;
+  /* background-color: aqua; */
+  align-items: left;
+  height: 7vh;
+  width: 11%;
+  
+  
+  margin-left:34vh ;
+  /* margin-top:21vh ; */
+  position: absolute;
+
+}
+
+.react-clock-body {
+  fill: white;
+}
+
+.react-clock__face__mark {
+  background: white;
+}
+
+.react-clock__hand {
+  stroke: white;
+}
+
+.card{
+  color: rgb(21, 181, 255);
+}
